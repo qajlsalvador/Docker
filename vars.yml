@@ -1,0 +1,13 @@
+package:
+      - apt-transport-https
+      - ca-certificates
+      - curl
+      - gnupg
+      - lsb-release
+      - pip
+
+docker_packages:
+      - docker-ce
+      - docker-ce-cli
+      - containerd.io
+
